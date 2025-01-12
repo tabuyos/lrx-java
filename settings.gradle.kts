@@ -18,3 +18,4 @@ plugins {
 
 rootProject.name = "lrx-java"
 include("app", "list", "utilities")
+include("mybatis-customize")
